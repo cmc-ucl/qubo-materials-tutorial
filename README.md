@@ -59,7 +59,8 @@ The notebook covers:
 
 The notebook is designed to run directly in Google Colab.
 
-1. Open the notebook in Colab
+1. Open the notebook in Colab:
+   https://colab.research.google.com/github/cmc-ucl/qubo-materials-tutorial/blob/main/QUBO_tutorial.ipynb
 2. Save your own copy:
    File → Save a copy in Drive
 3. Run the setup cells at the top of the notebook
