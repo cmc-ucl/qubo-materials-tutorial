@@ -10,6 +10,9 @@ The tutorial is aimed primarily at researchers and students with a background in
 
 No prior experience in computational materials science is assumed.
 
+The theory behind this tutorial is published here: https://doi.org/10.1063/5.0151346.
+
+If you have questions regarding this tutorial please get in touch with: b.camino@ucl.ac.uk.
 ---
 
 # Overview
